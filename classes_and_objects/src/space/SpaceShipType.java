@@ -1,6 +1,14 @@
+/*
+    ENUM CLASS
+    
+    Classes for constant variables
+
+Last edit: 17 / 05 / 2022
+*/
 package space;
 
-public enum SpaceShipType {
+public enum SpaceShipType 
+{
     ROUND("wobble wobble"),
     PYRAMID("woaaaam"),
     COOL("I'm cool"),
@@ -9,16 +17,19 @@ public enum SpaceShipType {
 
     private String soundWhenFlying = "No sound";
 
-    private SpaceShipType(String soundWhenFlying) {
+    private SpaceShipType(String soundWhenFlying) 
+    {
         this.soundWhenFlying = soundWhenFlying;
     }
 
-    public String getSoundWhenFlying() {
+    public String getSoundWhenFlying() 
+    {
         return soundWhenFlying;
     }
 
-    public void setSoundWhenFlying(String soundWhenFlying) {
+    public void setSoundWhenFlying(String soundWhenFlying) 
+    {
         this.soundWhenFlying = soundWhenFlying;
     }
 
-}
+} // end enum SpaceShipType

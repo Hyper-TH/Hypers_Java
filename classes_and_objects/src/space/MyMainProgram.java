@@ -1,3 +1,12 @@
+/*
+    MAIN CLASS
+
+This is where objects are initialized and
+methods from other classes are called
+
+Last edit: 16 / 05 / 2022
+*/
+
 // Packages are used to group related classes
 // Think of it as a folder in a file directory
 // We use it to avoid name conflicts, and to 
@@ -10,8 +19,15 @@ package space;
 // package the class belongs to
 // import ie.tudublin.*
 
-public class MyMainProgram {
-    public static void main(String[] args) {
+public class MyMainProgram 
+{
+    /* MAIN METHOD */
+    // create main method (main entry point) within the app
+    // static allows main() to be called without 
+    // having to instantiate a particular instance
+    // of the class
+    public static void main(String[] args) 
+    {
         // SpaceShip spaceShip = new SpaceShip("Round", "Hyper", 78);
 
         // Default constructor
@@ -72,9 +88,11 @@ public class MyMainProgram {
         // };
         // cowbow.practiceShoot();
 
-        // Lambda
+
+        /* LAMBDA */
         // Implementation of an interface with one method
-        LazerShooter cowbowFriend = () -> {
+        LazerShooter cowbowFriend = () -> 
+        {
             System.out.println("Swinging the lazer pistol");
             System.out.println("Jumping around");
             System.out.println("Shoot at empty bean can");
@@ -82,25 +100,37 @@ public class MyMainProgram {
         // or
         LazerShooter cowbowFriend2 = () -> System.out.println("Swinging the lazerpistol");
 
+
         cowbowFriend.practiceShoot();
         cowbowFriend2.practiceShoot();
 
-        switch (hugeSpaceShip.getModel()) {
-            case ROUND -> {
+
+        /* SWITCH */
+        switch (hugeSpaceShip.getModel()) 
+        {
+            case ROUND -> 
+            {
                 System.out.println("Wow its round");
             }
-            case PYRAMID -> {
+            case PYRAMID -> 
+            {
                 System.out.println("Wow its a pyramid");
             }
-            case COOL -> {
+            case COOL -> 
+            {
                 System.out.println("Wow its cool");
             }
-            case FAST -> {
+            case FAST -> 
+            {
                 System.out.println("Wow its fast");
             }
-            case SLOW -> {
+            case SLOW -> 
+            {
                 System.out.println("Wow its slow");
             }
-        }
-    }
-}
+
+        } // end switch()
+
+    } // end main()
+
+} // edit Main()
