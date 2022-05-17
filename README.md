@@ -8,3 +8,8 @@ of me doing it </br>
     Covers basic classes and methods </br>
     with the aid of a SpaceShip structure </br>
 </p>
+
+- ## arrayList
+<p>
+    Covers array lists vs arrays </br>
+</p>
