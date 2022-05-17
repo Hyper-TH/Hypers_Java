@@ -7,7 +7,7 @@
 Last edit: 16 / 05 / 2022
 */
 
-package space;
+package classes_and_objects.src.space;
 
 // An abstract class, in the context of Java, is a superclass that cannot be instantiated 
 // and is used to state or define general characteristics. An object cannot 

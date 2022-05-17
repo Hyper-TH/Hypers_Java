@@ -11,8 +11,10 @@ Last edit: 16 / 05 / 2022
 // Think of it as a folder in a file directory
 // We use it to avoid name conflicts, and to 
 // write a better, maintainable code
-package space;
+package classes_and_objects.src.space;
 
+// The import statement can be used to import an entire package or sometimes 
+// import certain classes and interfaces inside the package
 // Declare a java class to use in the code below the
 // import statement. Once a Java class is declared, then the class
 // name can be used in the code without specifiyng the 

@@ -5,7 +5,7 @@
 
 Last edit: 17 / 05 / 2022
 */
-package space;
+package classes_and_objects.src.space;
 
 // extends Object (Abstract class)
 public class SpaceShip extends FlyingObject 

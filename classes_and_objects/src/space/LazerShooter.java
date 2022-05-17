@@ -1,4 +1,4 @@
-package space;
+package classes_and_objects.src.space;
 
 
 // Interface class

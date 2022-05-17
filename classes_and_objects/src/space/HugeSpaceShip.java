@@ -6,7 +6,7 @@
 
 Last edit: 17 / 05 / 2022
 */
-package space;
+package classes_and_objects.src.space;
 
 public class HugeSpaceShip extends SpaceShip implements LazerShooter 
 {
