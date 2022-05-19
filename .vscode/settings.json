@@ -1,0 +1,29 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "extracting_csv/lib/core.jar",
+        "extracting_csv/lib/gluegen-rt.jar",
+        "extracting_csv/lib/gluegen-rt-natives-linux-aarch64.jar",
+        "extracting_csv/lib/gluegen-rt-natives-linux-amd64.jar",
+        "extracting_csv/lib/gluegen-rt-natives-linux-armv6hf.jar",
+        "extracting_csv/lib/gluegen-rt-natives-linux-i586.jar",
+        "extracting_csv/lib/gluegen-rt-natives-macosx-universal.jar",
+        "extracting_csv/lib/gluegen-rt-natives-windows-amd64.jar",
+        "extracting_csv/lib/gluegen-rt-natives-windows-i586.jar",
+        "extracting_csv/lib/jl1.0.1.jar",
+        "extracting_csv/lib/jogl-all.jar",
+        "extracting_csv/lib/jogl-all-natives-linux-aarch64.jar",
+        "extracting_csv/lib/jogl-all-natives-linux-amd64.jar",
+        "extracting_csv/lib/jogl-all-natives-linux-armv6hf.jar",
+        "extracting_csv/lib/jogl-all-natives-linux-i586.jar",
+        "extracting_csv/lib/jogl-all-natives-macosx-universal.jar",
+        "extracting_csv/lib/jogl-all-natives-windows-amd64.jar",
+        "extracting_csv/lib/jogl-all-natives-windows-i586.jar",
+        "extracting_csv/lib/jsminim.jar",
+        "extracting_csv/lib/minim.jar",
+        "extracting_csv/lib/mp3spi1.9.5.jar",
+        "extracting_csv/lib/sqlite-jdbc-3.23.1.jar",
+        "extracting_csv/lib/tritonus_aos.jar",
+        "extracting_csv/lib/tritonus_share.jar"
+    ]
+}
