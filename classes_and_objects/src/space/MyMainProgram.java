@@ -110,23 +110,23 @@ public class MyMainProgram
         /* SWITCH */
         switch (hugeSpaceShip.getModel()) 
         {
-            case ROUND -> 
+            case ROUND:
             {
                 System.out.println("Wow its round");
             }
-            case PYRAMID -> 
+            case PYRAMID: 
             {
                 System.out.println("Wow its a pyramid");
             }
-            case COOL -> 
+            case COOL:
             {
                 System.out.println("Wow its cool");
             }
-            case FAST -> 
+            case FAST:
             {
                 System.out.println("Wow its fast");
             }
-            case SLOW -> 
+            case SLOW:
             {
                 System.out.println("Wow its slow");
             }
