@@ -13,3 +13,8 @@ of me doing it </br>
 <p>
     Covers array lists vs arrays </br>
 </p>
+
+- ## extracting_csv
+<p>
+    Covers extracting data from a csv file
+</p>
