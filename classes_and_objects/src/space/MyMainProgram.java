@@ -36,6 +36,9 @@ public class MyMainProgram
         // new SpaceShip();
         // new SpaceShip();
 
+        // System is the final class defined in the java.lang.package
+        // out is the instance of PrintStream type
+        // println() prints out any argument passed to it and adds a new line
         // System.out.println(SpaceShip.greetingMessage);
 
         // SpaceShip.greetingMessage = "Good morning world";
