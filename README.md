@@ -18,3 +18,8 @@ of me doing it </br>
 <p>
     Covers extracting data from a csv file
 </p>
+
+- ## strings
+<p>
+    Covers string methods
+</p>
