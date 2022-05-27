@@ -1,7 +1,7 @@
 /*
     https://www.youtube.com/watch?v=ih0wQ1nBkTA
 */
-package methods.src;
+package methods_objects.src;
 
 public class Lesson2 
 {
