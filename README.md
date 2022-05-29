@@ -19,6 +19,11 @@ of me doing it </br>
     Covers extracting data from a csv file
 </p>
 
+- # methods_objects
+<p>
+    Covers basic classes with methods and objects
+</p>
+
 - ## strings
 <p>
     Covers string methods
