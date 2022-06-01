@@ -12,11 +12,11 @@ public class Lesson4_7
     public static void main(String[] args)
     {
         // Type Name = new Type
-        Aircraft cessna172 = new Aircraft();        // create object of class aircraft
+        Aircraft_old cessna172 = new Aircraft_old();        // create object of class aircraft
 
         // Aircraft piperSaratoga = new Aircraft();
-        Aircraft piperSaratoga;
-        piperSaratoga = new Aircraft();
+        Aircraft_old piperSaratoga;
+        piperSaratoga = new Aircraft_old();
 
 //        double cessna172Endurance;  // How long can it stay in the air
 //        double piperEndurance;  // How long can it stay in the air
@@ -53,7 +53,7 @@ public class Lesson4_7
 } // end Lesson4_7 class
 
 
-class Aircraft
+class Aircraft_old
 {
     int passengers;         // number of people
     int cruiseSpeed;        // miles per hour
