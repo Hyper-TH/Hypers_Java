@@ -1,5 +1,10 @@
 /*
     https://www.youtube.com/watch?v=ejI4iHiumrg
+
+    Program to demonstrate introduction to methods
+
+    Implemented in IntelliJ
+    Pushed in VSC
 */
 
 package methods_objects.src;

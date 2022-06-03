@@ -1,5 +1,10 @@
 /*
     https://www.youtube.com/watch?v=KwyX_iv0FYo
+
+    Program to demonstrate returning a value from a class method
+
+    Implemented in IntelliJ
+    Pushed in VSC
  */
 package methods_objects.src;
 

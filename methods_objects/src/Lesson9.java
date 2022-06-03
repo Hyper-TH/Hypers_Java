@@ -1,5 +1,10 @@
 /*
     https://www.youtube.com/watch?v=9BZ8s79jkP0
+
+    Program to demonstrate class methods with parameters
+
+    Implemented in IntelliJ
+    Pushed in VSC
  */
 
 package methods_objects.src;

@@ -1,5 +1,10 @@
 /*
     https://www.youtube.com/watch?v=ih0wQ1nBkTA
+
+    Program to demonstrate adding parameters and returning values
+
+    Implemented in IntelliJ
+    Pushed in VSC
 */
 package methods_objects.src;
 

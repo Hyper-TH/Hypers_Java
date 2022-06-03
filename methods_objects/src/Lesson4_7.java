@@ -3,6 +3,15 @@
     5: https://www.youtube.com/watch?v=q4vknQYjHy8
     6: https://www.youtube.com/watch?v=4mMX7KeyTBg
     7: https://www.youtube.com/watch?v=Q0QgLNd2fsA
+
+    Program to demonstrate
+    - Defining a class and creating objects
+    - Storing and accessing instance variables of an object
+    - Calculations with instance variables of an object#
+    - Adding a method to a class
+
+    Implemented in IntelliJ
+    Pushed in VSC
  */
 
 package methods_objects.src;
