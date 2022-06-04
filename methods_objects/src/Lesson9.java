@@ -13,9 +13,9 @@ public class Lesson9
 {
     public static void main(String[] args)
     {
-        Aircraft cessna172 = new Aircraft();
-        Aircraft piperSaratoga;
-        piperSaratoga = new Aircraft();
+        Aircraft_old3 cessna172 = new Aircraft_old3();
+        Aircraft_old3 piperSaratoga;
+        piperSaratoga = new Aircraft_old3();
 
         cessna172.passengers = 4;
         cessna172.cruiseSpeed = 140;
@@ -39,7 +39,7 @@ public class Lesson9
 
 } // end Lesson9 class
 
-class Aircraft
+class Aircraft_old3
 {
     int passengers;         // number of people
     int cruiseSpeed;        // miles per hour
