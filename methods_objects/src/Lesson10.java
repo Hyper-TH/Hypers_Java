@@ -12,8 +12,8 @@ public class Lesson10
 {
     public static void main(String[] args)
     {
-        Aircraft cessna172 = new Aircraft(4, 140, 56.5, 9.5);
-        Aircraft piperSaratoga = new Aircraft(6, 201, 102.5, 20.5);
+        Aircraft_old4 cessna172 = new Aircraft_old4(4, 140, 56.5, 9.5);
+        Aircraft_old4 piperSaratoga = new Aircraft_old4(6, 201, 102.5, 20.5);
 
         System.out.println("For Cessna172 to fly for 2.5 hours, it takes "
                 + cessna172.fuelNeeded(2.5)
@@ -25,7 +25,7 @@ public class Lesson10
     } // end main()
 } // end Lesson10 class
 
-class Aircraft
+class Aircraft_old4
 {
     int passengers;         // number of people
     int cruiseSpeed;        // miles per hour
@@ -33,7 +33,7 @@ class Aircraft
     double fuelBurnRate;    // gallons per hour
 
     // Constructor
-    Aircraft(int p, int c, double fc, double fbr)
+    Aircraft_old4(int p, int c, double fc, double fbr)
     {
         passengers = p;
         cruiseSpeed = c;
