@@ -16,7 +16,7 @@ public class SpaceShip extends FlyingObject
     private Integer fuel;
     public static String greetingMessage = "HelloWorld"; // Variable shared amongst all instances
 
-    /* STATIC INITIIALIZAITION BLOCK */
+    /* STATIC INITIALIZATION BLOCK */
     // static blocks are automatically called as soon as class is loaded in memory
     // and there is nothing to do as we have to in case of calling methods and
     // constructors inside main()
@@ -25,8 +25,8 @@ public class SpaceShip extends FlyingObject
         System.out.println("Static init code .... 1");
     }
 
-    /* INSTANCE INTIALIZATION BLOCK / IIB */
-    // Can write code blocks that wouldnt be added to all constructors automatically
+    /* INSTANCE INITIALIZATION BLOCK / IIB */
+    // Can write code blocks that wouldn't be added to all constructors automatically
     // So firstly, constructor is invoked and the java compiler copies the instance
     // initializer block in the constructor after the first statement super(). They
     // run each time when object of the class is created.
