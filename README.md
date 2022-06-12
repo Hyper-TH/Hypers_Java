@@ -19,10 +19,12 @@ of me doing it </br>
     Covers extracting data from a csv file
 </p>
 
-- ## methods_objects [WIP]
+- ## methods_objects (Vol 3)
 <p>
     Covers basic classes with methods and objects
 </p>
+
+- ## arrays_strings (Vol 4) [WIP]
 
 - ## strings
 <p>
