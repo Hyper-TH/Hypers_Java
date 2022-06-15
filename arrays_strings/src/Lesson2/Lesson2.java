@@ -26,6 +26,19 @@ public class Lesson2
             }
         } // end for
 
+        for(i = 0; i <= grades.length - 1; i++)
+        {
+            System.out.println("Grade " + i + ": " + grades[i]);
+        } // end for
+
+        System.out.println("Advanced for loop: ");
+
+        // Advanced for loop
+        for (double n: grades)
+        {
+            System.out.println("Grade " + n + ": " + n);
+        } // end for
+
         System.out.println("\n\nThe max grade in the class is: " + max);
     } // end main()
 
