@@ -1,5 +1,5 @@
 /*
-    https://www.youtube.com/watch?v=1KTArjYPMEo&list=PLnVYEpTNGNtU6TSAVSv_Kw7pyBbYrTFQV&index=5
+    https://www.youtube.com/watch?v=rxJRJV3eEaI&list=PLnVYEpTNGNtU6TSAVSv_Kw7pyBbYrTFQV&index=6
 
     Program to demonstrate searching for max and min of an array
 
