@@ -7,7 +7,7 @@
     Program to demonstrate
     - Defining a class and creating objects
     - Storing and accessing instance variables of an object
-    - Calculations with instance variables of an object#
+    - Calculations with instance variables of an object
     - Adding a method to a class
 
     Implemented in IntelliJ
